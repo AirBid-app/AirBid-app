@@ -1,16 +1,130 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AirBid-app/AirBid-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✈️ AirBid
 
-Here are some ideas to get you started:
+### The AI-Powered Flight Compensation Marketplace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 https://airbid.app
+
+Helping passengers recover compensation while approved providers compete for claims.
+
+Building the world's first AI-operated flight compensation marketplace.
+
+</div>
+
+---
+
+# 🚀 About AirBid
+
+AirBid is a marketplace connecting passengers affected by flight delays, cancellations, and disruptions with approved compensation providers.
+
+Instead of passengers searching for providers, providers compete to win passenger claims.
+
+---
+
+# 🤖 AirBid AI Division
+
+## 📧 Nexus
+
+Communication Orchestrator AI
+
+- Email monitoring
+- Notification delivery
+- Passenger communication tracking
+
+---
+
+## 🛠️ Sentinel
+
+Workflow Stabilizer AI
+
+- Workflow monitoring
+- Failure detection
+- Claim lifecycle tracking
+
+---
+
+## 🧪 Guardian
+
+Quality Assurance AI
+
+- System validation
+- Workflow testing
+- Data verification
+
+---
+
+## 🧠 Oracle
+
+Claim Intelligence AI
+
+- Claim analysis
+- Compensation insights
+- Provider intelligence
+
+---
+
+## 🎯 Compass
+
+Marketplace Routing AI
+
+- Provider matching
+- Marketplace optimization
+- Claim distribution
+
+---
+
+# ✈️ Marketplace Workflow
+
+```text
+Passenger
+    ↓
+Submit Claim
+    ↓
+AirBid Marketplace
+    ↓
+Approved Providers
+    ↓
+Offers Received
+    ↓
+Passenger Selects Provider
+    ↓
+Compensation Process
+```
+
+# 🛠 Technology Stack
+
+- React
+- TypeScript
+- Supabase
+- GitHub
+- AI Agent Architecture
+- Workflow Event Monitoring
+
+---
+
+# 🌎 Roadmap
+
+### Phase 1
+
+Marketplace MVP
+
+### Phase 2
+
+AI Agent Integration
+
+### Phase 3
+
+Autonomous Operations
+
+### Phase 4
+
+Global Expansion
+
+---
+
+# 🔗 Links
+
+🌐 Website: https://airbid.app
+
+💼 LinkedIn: https://www.linkedin.com/company/airbidmarketplace

@@ -1,3 +1,32 @@
+<p align="center">
+  <img src="assets/AirBid Banner.jpg" width="100%">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/Alex Baez pro.jpg" width="180">
+</p>
+
+<h1 align="center">
+Alejandro Baez
+</h1>
+
+<h3 align="center">
+Founder of AirBid • Technology Entrepreneur • AI Marketplace Builder
+</h3>
+
+<p align="center">
+Building the future of airline compensation through AI, automation, and marketplace innovation.
+</p>
+
+---
+
+
+
+
+
+
 <div align="center">
 
 # ✈️ AirBid

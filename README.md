@@ -247,6 +247,53 @@ AirBid’s long-term goal is to become an AI-powered marketplace where passenger
 AirBid is being developed as a marketplace platform capable of supporting international expansion, provider competition, and AI-driven operational automation.
 
 Together these agents will coordinate the complete AirBid ecosystem, helping automate claim handling, provider engagement, passenger communications, and marketplace operations.
+---
+
+# 📈 Investor Corner
+
+## The Problem
+
+Millions of airline passengers experience delays, cancellations, missed connections, and denied boarding events every year. Many eligible passengers never file claims because the process is confusing, time-consuming, or they are unaware of their rights.
+
+## The Solution
+
+AirBid creates a transparent marketplace where approved compensation providers compete for passenger claims, giving passengers more choice while helping providers access qualified opportunities.
+
+## Business Model
+
+### Provider Subscriptions
+
+Approved providers pay recurring subscription fees to participate in the marketplace.
+
+### Marketplace Revenue
+
+AirBid can generate additional revenue through marketplace fees, premium features, and future automation services.
+
+## Competitive Advantages
+
+* Marketplace-driven provider competition
+* Transparent passenger experience
+* AI-assisted operational workflows
+* Scalable provider network
+* International expansion potential
+
+## Expansion Vision
+
+### Phase 1
+
+UK / EU Compensation Market
+
+### Phase 2
+
+United States Expansion
+
+### Phase 3
+
+Global Marketplace Ecosystem
+
+## Long-Term Goal
+
+Build the leading AI-assisted flight compensation marketplace connecting passengers and approved providers through transparency, competition, and automation.
 
 # 🚀 About AirBid
 

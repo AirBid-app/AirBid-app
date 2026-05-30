@@ -88,6 +88,18 @@ Digital media brand focused on Stoic principles, storytelling, and educational c
 </td>
 </tr>
 </table>
+---
+
+## ✈️ AirBid Visual Showcase
+
+<p align="center">
+  <img src="assets/AirBid Images.png" width="100%">
+</p>
+
+AirBid is an AI-powered flight compensation marketplace designed to connect passengers with approved providers who compete to handle claims transparently and efficiently.
+
+**Core workflow:** Passenger submits claim → approved providers receive notification → providers submit offers → passenger selects provider → claim lifecycle continues with automated updates.
+
 # 🚀 About AirBid
 
 AirBid is a marketplace connecting passengers affected by flight delays, cancellations, and disruptions with approved compensation providers.

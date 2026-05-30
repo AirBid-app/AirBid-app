@@ -324,6 +324,35 @@ Founder of AirBid | Technology Entrepreneur | Operations Leader | AI Marketplace
 * Marketplace Businesses
 * Startup Partnerships
 * Investor Relationships
+---
+
+# 📊 GitHub Activity Dashboard
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AirBid-app&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirBid-app&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AirBid-app&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+* Building AirBid's flight compensation marketplace
+* Expanding provider onboarding capabilities
+* AI-assisted workflow automation
+* Marketplace lifecycle optimization
+* Future US expansion strategy
+* Investor readiness and platform scaling
+
+---
+
+# 🚀 Vision
+
+Building the world's most transparent and AI-assisted flight compensation marketplace where passengers and approved providers connect through automation, competition, and trust.
 
 ### Mission
 

@@ -99,6 +99,64 @@ Digital media brand focused on Stoic principles, storytelling, and educational c
 AirBid is an AI-powered flight compensation marketplace designed to connect passengers with approved providers who compete to handle claims transparently and efficiently.
 
 **Core workflow:** Passenger submits claim → approved providers receive notification → providers submit offers → passenger selects provider → claim lifecycle continues with automated updates.
+---
+
+# 🤖 AirBid AI Agent Headquarters
+
+<p align="center">
+  <img src="assets/AI Agents.png" width="100%">
+</p>
+
+AirBid is evolving beyond a traditional marketplace into an AI-assisted operating company designed to automate communication, operations, quality assurance, intelligence, and provider coordination.
+
+## 🧠 Nexus
+
+**Communication Orchestrator**
+
+* Passenger notifications
+* Provider notifications
+* Email automation
+* Lifecycle communications
+
+## 🛡️ Sentinel
+
+**Workflow Stabilizer**
+
+* Workflow monitoring
+* Failure detection
+* Retry automation
+* Operational alerts
+
+## ✅ Guardian
+
+**Quality Assurance & Testing**
+
+* Workflow validation
+* Regression monitoring
+* Marketplace testing
+* Platform reliability
+
+## 🔮 Oracle
+
+**Claim Intelligence**
+
+* Claim analysis
+* Compensation insights
+* Provider matching support
+* Data intelligence
+
+## 🧭 Compass
+
+**Marketplace Routing**
+
+* Provider assignment
+* Marketplace optimization
+* Offer routing
+* Selection workflows
+
+### Future Vision
+
+Together these agents will coordinate the complete AirBid ecosystem, helping automate claim handling, provider engagement, passenger communications, and marketplace operations.
 
 # 🚀 About AirBid
 

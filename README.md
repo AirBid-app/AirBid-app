@@ -208,7 +208,42 @@ The AirBid platform is designed around marketplace automation, provider engageme
 * AI-assisted workflow management
 * Real-time claim lifecycle tracking
 * Future autonomous operations
+---
 
+# 🛣️ AirBid Roadmap & Future Vision
+
+AirBid is being built in phases, moving from marketplace MVP to AI-assisted operations and future international expansion.
+
+## ✅ Completed
+
+- AirBid brand foundation
+- Passenger claim submission flow
+- Provider marketplace concept
+- Email notification system foundation
+- GitHub founder profile setup
+- Visual documentation system
+
+## 🔄 In Progress
+
+- Provider dashboard improvements
+- Offer lifecycle fixes
+- Passenger offer display improvements
+- Approved provider workflow validation
+- Marketplace dashboard synchronization
+- Email notification reliability
+
+## 🚀 Upcoming
+
+- AI Communication Orchestrator
+- Workflow Stabilizer Agent
+- Investor-ready dashboard visuals
+- Provider onboarding system
+- US expansion planning
+- Mobile application roadmap
+
+## 🌍 Long-Term Vision
+
+AirBid’s long-term goal is to become an AI-powered marketplace where passengers, approved providers, and automation agents work together to make airline compensation claims faster, more transparent, and more competitive.
 AirBid is being developed as a marketplace platform capable of supporting international expansion, provider competition, and AI-driven operational automation.
 
 Together these agents will coordinate the complete AirBid ecosystem, helping automate claim handling, provider engagement, passenger communications, and marketplace operations.

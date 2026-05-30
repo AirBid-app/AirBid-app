@@ -294,6 +294,40 @@ Global Marketplace Ecosystem
 ## Long-Term Goal
 
 Build the leading AI-assisted flight compensation marketplace connecting passengers and approved providers through transparency, competition, and automation.
+---
+
+# 🤝 Connect With Me
+
+### 👨‍💼 Alejandro Baez
+
+Founder of AirBid | Technology Entrepreneur | Operations Leader | AI Marketplace Builder
+
+### Current Focus
+
+* Building AirBid's flight compensation marketplace
+* AI-assisted workflow automation
+* Provider marketplace development
+* Aviation technology innovation
+* Future international expansion
+
+### Connect
+
+* GitHub: @AirBid-app
+* LinkedIn: Alejandro Baez
+* AirBid: Building the future of airline compensation
+
+### Collaboration Interests
+
+* Aviation Technology
+* SaaS Platforms
+* AI Automation
+* Marketplace Businesses
+* Startup Partnerships
+* Investor Relationships
+
+### Mission
+
+Create technology that makes complex processes simpler, more transparent, and more accessible through automation, innovation, and thoughtful product design.
 
 # 🚀 About AirBid
 

@@ -156,6 +156,61 @@ AirBid is evolving beyond a traditional marketplace into an AI-assisted operatin
 
 ### Future Vision
 
+
+---
+
+# 🏗️ AirBid Architecture Command Center
+
+The AirBid platform is designed around marketplace automation, provider engagement, AI-assisted workflows, and scalable cloud infrastructure.
+
+## Platform Architecture
+
+<p align="center">
+  <img src="assets/Mermaidi.png" width="100%">
+</p>
+
+---
+
+## Claim Workflow
+
+<p align="center">
+  <img src="assets/Mermaidii.png" width="100%">
+</p>
+
+---
+
+## Provider Marketplace Flow
+
+<p align="center">
+  <img src="assets/Mermaidiii.png" width="100%">
+</p>
+
+---
+
+## AI Agent Ecosystem
+
+<p align="center">
+  <img src="assets/Mermaidiv.png" width="100%">
+</p>
+
+---
+
+## Database Relationships
+
+<p align="center">
+  <img src="assets/Mermaidv.png" width="100%">
+</p>
+
+### Architecture Goals
+
+* Scalable marketplace infrastructure
+* Automated provider communications
+* AI-assisted workflow management
+* Real-time claim lifecycle tracking
+* Future autonomous operations
+
+AirBid is being developed as a marketplace platform capable of supporting international expansion, provider competition, and AI-driven operational automation.
+
 Together these agents will coordinate the complete AirBid ecosystem, helping automate claim handling, provider engagement, passenger communications, and marketplace operations.
 
 # 🚀 About AirBid

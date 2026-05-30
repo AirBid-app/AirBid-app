@@ -42,7 +42,52 @@ Building the world's first AI-operated flight compensation marketplace.
 </div>
 
 ---
+---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ✈️ AirBid  
+AI-powered flight compensation marketplace where approved providers compete for passenger claims.
+
+**Status:** MVP in development  
+**Focus:** Aviation • Marketplace • AI Automation  
+
+</td>
+<td width="50%">
+
+### 📱 Nova Mobile  
+Future MVNO concept for the Dominican Republic focused on accessible mobile service.
+
+**Status:** Concept / Planning  
+**Focus:** Telecom • Mobile • Dominican Republic  
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 Nova MultiService Solutions  
+Business services brand focused on practical service solutions and future digital expansion.
+
+**Status:** Active Brand  
+**Focus:** Services • Operations • Business Support  
+
+</td>
+<td width="50%">
+
+### 🎥 Stoic Verz  
+Digital media brand focused on Stoic principles, storytelling, and educational content.
+
+**Status:** Content Brand  
+**Focus:** Media • Education • Storytelling  
+
+</td>
+</tr>
+</table>
 # 🚀 About AirBid
 
 AirBid is a marketplace connecting passengers affected by flight delays, cancellations, and disruptions with approved compensation providers.
